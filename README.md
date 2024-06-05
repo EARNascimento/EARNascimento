@@ -9,7 +9,7 @@ _Soon I'm going to be a Software Engineer at [Unileste](https://unileste.catolic
 * 🏢 Trying to balance my actual job with my college and learning new programming languages between that.
 * 💻 Learning Java with [DIO](https://www.dio.me/)!
 * 📖 Currently reading The Handmaid's Tale
-* 👯 We could play some Chess, I guarantee you I'm terrible, at least I could make you laugh with my bad plays.
+* 👯 We could play some Chess, I guarantee you that I'm terrible, at least I could make you laugh with my bad plays.
 
 ### My GitHub Stats
 
