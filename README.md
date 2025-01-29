@@ -15,8 +15,6 @@ _Soon I'm going to be a Software Engineer at [Unileste](https://unileste.catolic
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EARNascimento&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EARNascimento&theme=neon-dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EARNascimento&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
